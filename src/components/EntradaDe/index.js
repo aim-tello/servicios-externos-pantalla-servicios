@@ -1,0 +1,1 @@
+export { EntradaDe } from "./EntradaDe";

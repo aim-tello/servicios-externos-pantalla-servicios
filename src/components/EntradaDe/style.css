@@ -1,0 +1,94 @@
+.entrada-de {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 157px;
+  justify-content: center;
+  padding: 15px 0px;
+  position: relative;
+  width: 943px;
+}
+
+.entrada-de .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Alumni Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.entrada-de .element-wrapper {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 6px;
+  display: flex;
+  gap: 10px;
+  height: 35px;
+  padding: 0px 7px;
+  position: relative;
+  width: 943px;
+}
+
+.entrada-de .element {
+  background-color: transparent;
+  border: 0;
+  color: #000000;
+  flex: 0 0 auto;
+  font-family: "Alumni Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: relative;
+}
+
+.entrada-de .frame-2 {
+  flex: 0 0 auto;
+  position: relative;
+  width: 943px;
+}
+
+.entrada-de .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Alumni Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+}
+
+.entrada-de .frame-3 {
+  align-items: center;
+  background-color: #b58ad6;
+  border-radius: 20px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 841px;
+  padding: 10px 20px;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+}
+
+.entrada-de .text-wrapper-6 {
+  color: #000000;
+  font-family: "Alumni Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 1.8px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}

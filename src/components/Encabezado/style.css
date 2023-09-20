@@ -1,0 +1,68 @@
+.encabezado {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 792px;
+}
+
+.encabezado .frame {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.encabezado .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Alumni Sans", Helvetica;
+  font-size: 60px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.encabezado .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Alumni Sans", Helvetica;
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.encabezado .div-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.encabezado .p {
+  color: #ffffff;
+  font-family: "Alumni Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 125px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 772px;
+}

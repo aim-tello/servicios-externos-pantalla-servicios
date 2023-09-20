@@ -1,0 +1,63 @@
+.index {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .div-2 {
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgb(153, 56, 227) 0%,
+    rgba(62.95, 23.04, 93.4, 0.97) 65.62%,
+    rgba(0, 0, 0, 0.94) 100%
+  );
+  background-blend-mode: multiply;
+  background-color: rgba(255, 255, 255, 1);
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.index .tarjeta-de-resultado-instance {
+  left: 150px !important;
+  position: absolute !important;
+  top: 519px !important;
+}
+
+.index .overlap-group-wrapper {
+  height: 414px;
+  left: 186px;
+  overflow: hidden;
+  position: absolute;
+  top: 42px;
+  width: 1067px;
+}
+
+.index .overlap-group {
+  height: 360px;
+  left: -20px;
+  position: relative;
+  top: -1px;
+  width: 989px;
+}
+
+.index .encabezado-instance {
+  left: 157px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.index .property-default-wrapper {
+  border-radius: 5px;
+  height: 157px;
+  left: 0;
+  position: absolute;
+  top: 203px;
+  width: 989px;
+}
+
+.index .property-default {
+  left: 20px !important;
+}
